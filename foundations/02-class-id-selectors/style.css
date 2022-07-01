@@ -1,0 +1,17 @@
+.class_um {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: lightpink;
+}
+.cooler{
+  font-size: 24px;
+}
+
+#div_primeiro{
+  color: blue;
+  font-size: 36px;
+}
+#div_segundo{
+  font-weight: bold;
+  background-color: lightgreen;
+  font-size: 24px;
+}
